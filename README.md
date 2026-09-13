@@ -1,2 +1,2 @@
 # IEEE-SBM-Coding-Assignments
-dsa assignments
+DSA assignments
